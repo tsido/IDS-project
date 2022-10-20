@@ -1,2 +1,3 @@
-# DATA11001-project
-Project for Intro to Data Science course
+# Mini project for Introduction to Data Science course
+
+Project for Intro to Data Science course at University of Helsinki.
